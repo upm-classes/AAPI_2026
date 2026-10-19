@@ -1,0 +1,14 @@
+numpy
+scipy
+pandas
+matplotlib
+scikit-image
+scikit-learn
+opencv-python
+jupyterlab
+# Celdas [Colab]
+torch
+torchvision
+transformers
+faiss-cpu
+imagehash
