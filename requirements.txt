@@ -12,3 +12,9 @@ torchvision
 transformers
 faiss-cpu
 imagehash
+
+
+The PhD candidate research line proposes investigating the intersection between medical image processing and multimodal foundational artificial intelligence models. My role as co-supervisor consists of providing support in the areas where I have active projects and publications in Deep Learning and Large Language Models (LLMs), focusing both on the design of vision-language alignment architectures and fine-tuning/prompting techniques, as well as on uncertainty quantification and hallucination mitigation to guarantee the clinical reliability of the models.
+
+Lunes 15:00
+Miércoles 16:00
